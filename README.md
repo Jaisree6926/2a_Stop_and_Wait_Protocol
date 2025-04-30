@@ -1,6 +1,5 @@
 # 2a_Stop_and_Wait_Protocol
-## NAME:JAISREE B
-## REG NO:212224230100
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
